@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 // THIS IS THE ENEMY CONTROLLING CODE
-public class EnemyControll : MonoBehaviour
+public class EnemyController : MonoBehaviour
 {
     public Animator EnemyAnimator;
     public Rigidbody EnemyRigid;
