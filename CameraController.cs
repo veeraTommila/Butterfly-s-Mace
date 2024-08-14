@@ -30,6 +30,7 @@ public class CameraController : MonoBehaviour
         pivot.transform.parent = null;
     }
 
+
     // Update is called once per frame
     void Update()
     {
